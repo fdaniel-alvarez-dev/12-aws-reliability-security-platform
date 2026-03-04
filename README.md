@@ -1,6 +1,9 @@
-# 12-aws-reliability-security
+# 12-aws-reliability-security-platform
 
 A reference data platform blueprint with pragmatic governance: quality checks, lineage, access controls, and CI for data assets.
+
+Focus: platform
+
 
 ## The top pains this repo addresses
 1) Shipping fast without compromising security—policy-as-code, least privilege, secrets hygiene, and audit-ready evidence collection.
